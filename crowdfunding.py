@@ -154,6 +154,7 @@ def search_project_by_date():
     date=str(validate_date(date))[:11]
     found=False
     for project in projects:
+        #if project.split(":")[4] <= date <= project.split(":")[5]:
         if project.split(":")[4] == date or project.split(":")[5] == date:
             found=True
             email,title,details,target,start,end=project.split(":")
