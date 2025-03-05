@@ -1,0 +1,6 @@
+mansour@gmail.com:app:qwerty:2500:2025-04-04:2025-06-06
+philo@gmail.com:website:portfolio:5000:2025-05-01:2025-06-30
+philo@gmail.com:game:adventure:7000:2025-03-15:2025-07-20
+philo@gmail.com:ai:ai model:10000:2025-02-10:2025-08-01
+philo@gmail.com:e commerce:shopping:8000:2025-06-05:2025-09-10
+mansour@gmail.com:fifa:game:800000:2025-01-01:2026-01-01
